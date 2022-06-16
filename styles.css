@@ -1,0 +1,50 @@
+.leftside{
+  height:1000px;
+  position: fixed;
+  box-shadow: 10px 1px 15px #100c08;
+}
+.image{
+  position: fixed;
+  z-index: 1;
+  height:40%;
+  width: 20%;
+  margin-left: 12.5%;
+  margin-top: 5%;
+  border-radius: 50%;
+}
+.intro{
+  position: fixed;
+  z-index: 1;
+  font-size: 40px;
+  font-family: 'PT Mono', monospace;
+  top:62%;
+  left:9%;
+}
+.project{
+  float:right;
+position: relative;
+right:10%;
+margin-top:5%;
+text-align:center;
+color:white;
+font-size: 20px;
+}
+.col1{
+  position:relative ;
+  right:20%;
+}
+.col2{
+  position:relative ;
+  right:3%;
+}
+.project2{
+  float:right;
+position: relative;
+left:15%;
+margin-top: 17%;
+color:white;
+text-align:center;
+}
+.waves{
+
+}
